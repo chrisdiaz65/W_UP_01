@@ -81,3 +81,5 @@ The p-value is 0.000009421 which is less tan 0.05 so we reject the null hypothes
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+By rejecting the null hypothesis since the p-value given is less than 0.05, it is understood that skill position players can do more pushups that line position players.
+
