@@ -31,6 +31,13 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+Pushups are a numerical variable whereas position is a categorical variable. Therefore, we use a num~cat helper file.
+
+We want to determine whether pushups based on position is different.
+
+# Results
+
+
 # Results
 
 <!--Divide this section into two sub-sections: One for your descriptive results and one for your inferential results.!-->
